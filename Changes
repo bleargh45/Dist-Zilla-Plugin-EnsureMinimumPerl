@@ -1,6 +1,7 @@
 Revision history for Perl extension Dist::Zilla::Plugin::EnsureMinimumPerl
 
 {{$NEXT}}
+    - Bump minimum Perl version to v5.20 (matching upstream DZil minimum)
 
 0.01      2021-01-10 12:07:50-08:00 America/Vancouver
     - Initial release
